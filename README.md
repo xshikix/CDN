@@ -1,3 +1,3 @@
 # CDN
-Cache files
-jsDelivr
+Cache files  
+jsDelivr； Limit size ＜ 20M  
